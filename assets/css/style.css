@@ -197,11 +197,11 @@ button {
     background: #3b3b3bde;
 }
 .info-div2 {
-    padding: 13px;
-    border: 1px solid #fff;
-    margin-bottom: 172px;
-    width: 74%;
-    background: #3b3b3bde;
+  padding: 13px;
+  border: 1px solid #fff;
+  margin-bottom: 32px;
+  width: 74%;
+  background: #3b3b3bde;
 }
 img {
     height: fit-content;
